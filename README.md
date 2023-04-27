@@ -27,3 +27,9 @@ This is where we now edit.
 ![image](https://user-images.githubusercontent.com/99332618/234854339-9cb16d01-7b6b-4d69-9e15-b73c4e02397c.png)
 
 ![image](https://user-images.githubusercontent.com/99332618/234854572-f6763710-f420-422e-a6f7-a8b9732aaf69.png)
+
+Change the following too:
+
+![image](https://user-images.githubusercontent.com/99332618/234855082-1012f8ee-09cf-40dd-8dbd-f0c7aef80bcd.png)
+
+And do not forget to change the port of teh application
